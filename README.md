@@ -6,7 +6,7 @@ A simple RESTful API to manage books and users for a rental system.
 
 ### Setup
 ```bash
-git clone https://github.com/your-username/book-rental.git
+git clone https://github.com/akhi9550/book-rental.git
 cd book-rental
 go mod tidy
 go run main.go
